@@ -1,5 +1,3 @@
-import styles from "../styles/Home.module.css"
-
 //next js
 import Link from "next/link"
 import Head from "next/head"
@@ -25,7 +23,7 @@ export default function Home() {
       </Head>
 
       <Box component="div" sx={{ px: {xs: 1.5, sm: 4, md: 8} }}>
-        <Box component="header" sx={{borderRadius: "10px", mb: 6 }}>
+        <Box component="header" sx={{borderRadius: "10px", mb: 10 }}>
           <AppBar position="relative" sx={{ pb: { sm: 5 }, backgroundColor: 'white', boxShadow: '0 0 0 rgb(0, 0, 0, 0)' }}>
             <Toolbar>
               <Typography
@@ -157,12 +155,13 @@ export default function Home() {
               md={4}
               sx={{py: { xs: 10, md: 0 }, pb: { xs: 15 } }}
             >
-              <Paper elevation={0} sx={{mx: {xs: 'auto'}, display: {sm: "flex", md: 'inherit'}, maxWidth: {xs: "80%"} }}>
+              <Paper elevation={0} sx={{mx: {xs: 'auto'}, display: {sm: "flex", md: 'inherit'}, justifyContent: {xs: 'space-between'}, maxWidth: {xs: "80%"} }}>
                 <Typography
                   variant="h4"
                   component="h2"
                   sx={{
                     mb: 3,
+                    mr: {xs: "5vw", md: '0'},
                     pb: { xs: 3 , md: 0},
                     pr: { xs: 3, md: 0 },
                     px: { xs: 'auto', md: 0},
