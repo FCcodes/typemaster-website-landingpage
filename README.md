@@ -13,7 +13,13 @@ It is fully responsive.
 ### Screenshots
 
 - Mobile view
+ 
+![Screenshot 2021-10-07 at 14-51-45 TYPEMASTER](https://user-images.githubusercontent.com/78990260/136448450-09b772b2-e697-4fa3-84cb-18279fa7dab4.png)
 
 - Tablet view
 
+![Screenshot 2021-10-07 at 14-52-33 TYPEMASTER](https://user-images.githubusercontent.com/78990260/136448626-6ef15ffb-d4f8-4dbd-9fbb-245178e90859.png)
+
 - Laptop view
+
+![Screenshot 2021-10-07 at 14-53-34 TYPEMASTER](https://user-images.githubusercontent.com/78990260/136448662-44f5f7a4-f097-4e2b-81b0-f2e38f6f761b.png)
